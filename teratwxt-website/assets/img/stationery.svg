@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<rect width="600" height="420" rx="24" fill="#fff9ee"/>
+<rect x="85" y="100" width="125" height="190" rx="12" fill="#ffffff" stroke="#27496d" stroke-width="6"/>
+<line x1="110" y1="140" x2="185" y2="140" stroke="#d0d7e2" stroke-width="5"/>
+<line x1="110" y1="170" x2="185" y2="170" stroke="#d0d7e2" stroke-width="5"/>
+<line x1="110" y1="200" x2="185" y2="200" stroke="#d0d7e2" stroke-width="5"/>
+<rect x="120" y="74" width="60" height="38" rx="6" fill="#ffcc4d"/>
+<rect x="250" y="85" width="26" height="210" rx="10" fill="#ff6f61"/>
+<polygon points="250,85 276,85 263,45" fill="#27496d"/>
+<rect x="310" y="110" width="40" height="190" rx="10" fill="#5ec8b7"/>
+<rect x="365" y="135" width="80" height="160" rx="10" fill="#ffffff" stroke="#27496d" stroke-width="6"/>
+<line x1="382" y1="165" x2="428" y2="165" stroke="#ff6f61" stroke-width="6"/>
+<line x1="382" y1="195" x2="428" y2="195" stroke="#5ec8b7" stroke-width="6"/>
+<line x1="382" y1="225" x2="428" y2="225" stroke="#7f8cff" stroke-width="6"/>
+<circle cx="470" cy="280" r="58" fill="#ffe8b3" stroke="#27496d" stroke-width="6"/>
+<text x="300" y="370" font-size="30" text-anchor="middle" font-family="Arial, sans-serif" fill="#27496d" font-weight="700">Pens • Paper • Markers</text>
+</svg>
